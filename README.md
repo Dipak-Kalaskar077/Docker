@@ -51,7 +51,7 @@ Think of a container as a **bundle** of your application, its required dependenc
 
 ## 🔹 Containers vs Virtual Machines
 
-![Docker Architecture](/Docker%20Architecture.png)
+![Docker Architecture](/Containarization%20vs%20Virtualization.png)
 
 | Feature | Containers | Virtual Machines (VMs) |
 |---------|-----------|------------------------|

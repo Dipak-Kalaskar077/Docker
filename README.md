@@ -46,6 +46,8 @@ A container is a lightweight, standalone, and executable software package that i
 
 Think of a container as a **bundle** of your application, its required dependencies, and the minimal system components needed to run it.
 
+![Docker Architecture](/Docker%20Architecture.png)
+
 ---
 
 ## 🔹 Containers vs Virtual Machines

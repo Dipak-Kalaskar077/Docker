@@ -88,6 +88,9 @@ Docker is a **containerization platform** that allows you to:
 ---
 
 ## 🔹 Docker Architecture
+
+![Docker Architecture](/Docker%20Architecture.png)
+
 Docker follows a **client-server** architecture:
 - **Docker Daemon (dockerd)**: The core service managing images, containers, networks, and volumes.
 - **Docker Client (docker CLI)**: The command-line tool for interacting with Docker.
